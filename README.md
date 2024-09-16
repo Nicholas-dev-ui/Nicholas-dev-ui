@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Nicholas-dev-ui
+- 👋 Hi, I’m @Nicholas.
 - 👀 I’m interested in coding and problem-solvivng.
-- 🌱 I’m currently learning Python and Django.
 - 💞️ I’m looking to collaborate on exciting front-end projects and open-source contributions.
 - 📫 How to reach me: You can email me at nicholaspaolo9@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/nicholas-paolo-700953325.
 - 😄 Pronouns: He/Him
